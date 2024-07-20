@@ -1,5 +1,5 @@
 body {
-  background: #c5c5c5;
+  background: #00DF95 ;
 }
 .main-container {
   display: flex;
@@ -9,7 +9,7 @@ body {
   height: 100vh;
 }
 button {
-  background-color: #34495E;
+  background-color: #D33900 ;
   color: #fff;
   font-size: 15px;
   padding: 8px 20px;
